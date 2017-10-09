@@ -8,4 +8,4 @@ function destructivelyAddElementToEndOfArray(array, item){
 
 function accessElementInArray(array, index){
   console.log(array[index])
-} 
+}
