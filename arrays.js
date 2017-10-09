@@ -7,5 +7,6 @@ function destructivelyAddElementToEndOfArray(array, item){
 }
 
 function accessElementInArray(array, index){
-  console.log(array[index])
+  var array = ["snickers", "hundred grand", "kitkat","skittles"]
+    array[index]
 }
