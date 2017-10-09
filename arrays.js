@@ -6,7 +6,7 @@ function destructivelyAddElementToEndOfArray(array, item){
   array.push(item)
 }
 
+var chocolateBars = ["snickers", "hundred grand", "kitkat","skittles"]
 function accessElementInArray(array, index){
-  var array = ["snickers", "hundred grand", "kitkat","skittles"]
-    array[index]
+  array[index]
 }
