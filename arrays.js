@@ -10,3 +10,8 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat","skittles"]
 function accessElementInArray(array, index){
   array[index]
 }
+
+function destructivelyRemoveElementFromBeginningOfArray(chocolateBars, item){
+  chocolateBars.shift(item)
+  return chocolateBars
+}
