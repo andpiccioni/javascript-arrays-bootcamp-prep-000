@@ -1,5 +1,5 @@
-function addElementToBeginningOfArray(array, item){
-  [...array, item]
+function addElementToBeginningOfArray(array, element){
+  [...array, element]
 }
 
 function destructivelyAddElementToEndOfArray(array, item){
